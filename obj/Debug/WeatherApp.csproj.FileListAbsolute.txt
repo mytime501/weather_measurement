@@ -1,0 +1,39 @@
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.csproj.SuggestedBindingRedirects.cache
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\App.g.cs
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp_MarkupCompile.cache
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp_MarkupCompile.lref
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\bin\Debug\WeatherApp.exe.config
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\bin\Debug\WeatherApp.exe
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\bin\Debug\WeatherApp.pdb
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.g.resources
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.exe
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.pdb
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\View\WeatherWindow.g.cs
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\이승준\Desktop\2학년 1학기\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\View\WeatherWindow.baml
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\View\WeatherWindow.g.cs
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\App.g.cs
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp_MarkupCompile.cache
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp_MarkupCompile.lref
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\View\WeatherWindow.baml
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.g.resources
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.csproj.CopyComplete
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\SG1\Desktop\윈도우 프로그래밍\날씨앱 과제\WeatherApp\obj\Debug\WeatherApp.pdb
